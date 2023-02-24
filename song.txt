@@ -11,3 +11,5 @@ third
 third
 
 newCommit1
+
+newCommit2
